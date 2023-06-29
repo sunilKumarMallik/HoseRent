@@ -1,0 +1,85 @@
+{
+  "footerlogo": "/assets/img/footer-logo.png",
+  "footertext": "Our support team will get assistance from AI-powered, making it quicker than ever to handle support requests.",
+  "footerbg": "/assets/img/bg/footer.png",
+  "socialicon": [
+      {
+        "icon": "fa fa-facebook",
+        "url": "https://www.facebook.com/codingeek.net/"
+      },
+      {
+        "icon": "fa fa-twitter",
+        "url": "https://twitter.com/codingeeknet"
+      },
+      {
+        "icon": "fa fa-linkedin",
+        "url": "https://www.linkedin.com/company/codingeek/about/"
+      }
+    ],
+  "copyrighttext": "  © Copyright Nexus Property Made with <i class=\"fa fa-heart\"></i><span>Sunil</span>",
+  "popularserces": {
+    "title": "Popular Searches",
+    "links": [
+      {
+        "title": "Apartment for Rent",
+        "url": "/properties-by-city"
+      },
+      {
+        "title": "Apartment Low to hide",
+        "url": "/search-list"
+      },
+      {
+        "title": "Offices for Buy",
+        "url": "/properties-by-city"
+      },
+      {
+        "title": "Offices for Rent",
+        "url": "/properties-by-city"
+      }
+    ]
+  },
+  "Homepress": {
+    "title": "Homepress Markets",
+    "links": [
+      {
+        "title": "Bhubaneswar Offices",
+         "url": "/properties-by-city"
+      },
+      {
+        "title": "Cuttack Apartment",
+         "url": "/properties-by-city"
+      },
+      {
+        "title": "Puri Townhome",
+         "url": "/properties-by-city"
+      },
+      {
+        "title": "Cuttack Offices",
+         "url": "/properties-by-city"
+      }
+    ]
+  },
+  "quicklink": {
+    "title": "Quick Links",
+    "links": [
+      {
+        "title": "Pricing Plans",
+        "url": "/pricing"
+      },
+      {
+        "title": "FAQ",
+        "url": "/faq"
+      },
+      {
+        "title": "About Us",
+        "url": "/About"
+      },
+      {
+        "title": "Contact Us",
+        "url": "/contact"
+      }
+    ]
+  }
+
+
+}
